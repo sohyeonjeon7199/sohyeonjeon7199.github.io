@@ -2,7 +2,7 @@
 const projects = {
   project1: {
     title: 'Project_UI/UX Design',
-    image: 'img/portfolio/p1.jpg',
+    image: 'img/portfolio/p1.png',
     description: '이 프로젝트는 브랜드 아이덴티티를 위한 패키지 디자인입니다. 심플하면서도 감각적인 디자인으로 제품의 가치를 극대화했습니다.'
   },
   project2: {
@@ -22,7 +22,7 @@ const projects = {
   },
   project5: {
     title: 'Project_Package Design',
-    image: 'img/portfolio/logo1.png',
+    image: 'img/portfolio/p5.png',
     description: '클라이언트의 요구를 반영해 만든 패키지 디자인입니다.'
   },
   project6: {
